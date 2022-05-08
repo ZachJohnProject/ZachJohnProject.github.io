@@ -3107,7 +3107,7 @@ input, select, textarea {
 
 		.spotloot .image img {
 			display: block;
-			width: 16em;
+			width: 40em;
 		}
 
 	@media screen and (max-width: 980px) {
