@@ -3102,13 +3102,11 @@ input, select, textarea {
 		display: inline-block;
 		margin-left: 4em;
 		padding: 0.65em;
-		border-radius: 200%;
 		border: solid 1px;
 	}
 
 		.spotloot .image img {
 			display: block;
-			border-radius: 100%;
 			width: 16em;
 		}
 
