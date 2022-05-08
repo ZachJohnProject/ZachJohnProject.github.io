@@ -3109,7 +3109,7 @@ input, select, textarea {
 		.spotloot .image img {
 			display: block;
 			border-radius: 100%;
-			width: 16em;
+			width: 32em;
 		}
 
 	@media screen and (max-width: 980px) {
@@ -3161,7 +3161,7 @@ input, select, textarea {
 		}
 
 			.spotloot .image img {
-				width: 12em;
+				width: 18em;
 			}
 
 	}
