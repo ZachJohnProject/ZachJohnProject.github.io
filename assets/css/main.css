@@ -3107,7 +3107,7 @@ input, select, textarea {
 
 		.spotloot .image img {
 			display: block;
-			width: 40em;
+			width: 16em;
 		}
 
 	@media screen and (max-width: 980px) {
@@ -3125,7 +3125,7 @@ input, select, textarea {
 				-webkit-flex: 0 1 auto;
 				-ms-flex: 0 1 auto;
 				flex: 0 1 auto;
-				width: 100%;
+				width: 200%;
 			}
 
 				.spotloot .content header.major h2:after {
@@ -3138,7 +3138,7 @@ input, select, textarea {
 					-webkit-justify-content: center;
 					-ms-justify-content: center;
 					justify-content: center;
-					width: calc(100% + 1em);
+					width: calc(200% + 1em);
 				}
 
 			.spotloot .image {
@@ -3159,7 +3159,7 @@ input, select, textarea {
 		}
 
 			.spotloot .image img {
-				width: 12em;
+				width: 24em;
 			}
 
 	}
